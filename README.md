@@ -8,9 +8,14 @@
 
 ###
 
-### 👨‍💻 About Me
-- 🎓 BE CSE (Artificial Intelligence & Machine Learning) student at **Chennai Institute of Technology**
-- 🤖 Interested in **Machine Learning, Data Science, and AI-driven applications**
+### 💫 About Me:
+
+- 🔭 I’m currently working on: Machine learning and data science projects, including face recognition and student performance prediction systems.
+- 👯 I’m looking to collaborate on: AI/ML projects, data science applications, and beginner-friendly open-source contributions.
+- 🤝 I’m looking for help with: Improving model performance, feature engineering, and real-world ML deployment practices.
+- 🌱 I’m currently learning: Machine learning algorithms, data science workflows, and Python-based ML libraries.
+- 💬 Ask me about: Python, LeetCode problem-solving patterns, and beginner-to-intermediate ML projects.
+- ⚡ Fun fact: I’ve solved 500+ LeetCode problems and built multiple ML projects using Python, OpenCV, and Scikit-learn.
 ---
 
 ### 🚀 Tech Stack & Tools I Use
