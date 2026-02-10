@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nimalan Mani and I'm an AIML Student & Developer, from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Nimalan Mani and I'm an AIML Student & Developer</h2>
 
 ###
 
@@ -6,12 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nimalan07&show_icons=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimalan07&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
 
 ### 🚀 Tech Stack I Play With
 <div align="left">
