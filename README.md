@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nimalan07&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com?user=Nimalan07&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nimalan07&layout=compact&theme=dracula" height="180"/>
 </div>
 
 
