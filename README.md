@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nimalan07&theme=dracula&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Nimalan07&theme=dracula"/>
 </div>
+
 
 ###
 
